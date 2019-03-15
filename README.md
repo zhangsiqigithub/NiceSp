@@ -1,7 +1,7 @@
 # NiceSp
 A quickly useful Shared preferences tool
 
-##Advantage
+## Advantage
 This tool can instantiates a sharedpreference file, you don't need to maintain the sp table names and the sp keys.
 
 ## Instructions
