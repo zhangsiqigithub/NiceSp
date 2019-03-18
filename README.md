@@ -6,7 +6,7 @@ This tool can instantiates a sharedpreference file, you don't need to maintain t
 
 ## Instructions
 1. Use @SpTable annotate an interface to create a sharedpreference file.
-2. Define some method in this interface, the method name is the defaul sharedpreference key or you can annotate the method
+2. Define some method in this interface, the method name is the default sharedpreference key or you can annotate the method
 with @SpKey to modify the key.
 3. All the methods in your interface should return an Option with the generic paradigm of some type supported by shared preference
 4. The Option object can get and set the sp value.
