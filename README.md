@@ -12,5 +12,3 @@ with @SpKey to modify the key.
 4. The Option object can get and set the sp value.
 5. Use SpManager.provideInstance() to create an instance of your sharedprefenrence table object.
 
-
-[![](https://jitpack.io/v/helen-x/JitpackReleaseDemo.svg)](https://jitpack.io/#helen-x/JitpackReleaseDemo)
