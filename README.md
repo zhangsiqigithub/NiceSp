@@ -28,6 +28,6 @@ allprojects {
 In your app modules app/build.gradle file:
 ```
 dependencies {
-    implementation 'com.github.zhangsiqigithu:NiceSp:1.0.0' // add library
+    implementation 'com.github.zhangsiqigithub:NiceSp:1.0.0' // add library
 }
 ```
